@@ -65,3 +65,8 @@
 | [India Runs Candidate Ranker](https://github.com/heman60490-pixel/india-runs-candidate-ranker) | AI-powered candidate ranking — Hackathon project | Python, AI |
 | [Peblo Story Buddy](https://github.com/heman60490-pixel/peblo_story_buddy) | AI story app for kids with TTS & animations | Flutter |
 | [Smart Task Manager](https://github.com/heman60490-pixel/smart-task-manager) | Task management with smart features | HTML, JS |
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=heman60490-pixel&label=Profile+Views&color=58A6FF&style=flat" alt="Profile Views" />
+</p>

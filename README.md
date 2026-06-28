@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Heman+Saini!;Full+Stack+Django+Developer;AI+Integration+with+OpenAI;BCA+Student+%7C+Class+of+2027;Open+to+Remote+Internships!" alt="Typing SVG" />
+</p>
 <h1 align="center">Hi 👋, I'm Heman Saini</h1>
 <h3 align="center">Full Stack Developer (Django) | AI Integration | BCA '27</h3>
 
